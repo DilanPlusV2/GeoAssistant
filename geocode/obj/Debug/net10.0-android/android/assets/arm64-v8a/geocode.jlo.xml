@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64b44475e258275f46" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="geocode.MainActivity, geocode">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64b44475e258275f46" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="geocode.MainApplication, geocode" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="geocode" module-name="geocode.dll">
+    <type assembly-qualified-name="geocode.MainActivity, geocode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="geocode.MainActivity" java-key="crc64b44475e258275f46.MainActivity" managed-key="geocode.MainActivity" partial-assembly-qualified-name="geocode.MainActivity, geocode" />
+    <type assembly-qualified-name="geocode.MainApplication, geocode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="geocode.MainApplication" java-key="crc64b44475e258275f46.MainApplication" managed-key="geocode.MainApplication" partial-assembly-qualified-name="geocode.MainApplication, geocode" />
+  </acw-types>
+</api>

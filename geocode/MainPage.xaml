@@ -1,0 +1,189 @@
+﻿<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="geocode.MainPage"
+    BackgroundColor="#0F172A"
+    Shell.NavBarIsVisible="False">
+
+    <Grid RowDefinitions="Auto,*,Auto">
+
+        <!-- ================================================= -->
+        <!-- HEADER -->
+        <!-- ================================================= -->
+
+        <VerticalStackLayout
+    Padding="24,15,24,15"
+    Spacing="12">
+
+            <Label
+        Text="Geo Assistant"
+        FontSize="34"
+        FontAttributes="Bold"
+        TextColor="White"/>
+
+            <Label
+        Text="Asistente inteligente de barrios"
+        FontSize="15"
+        TextColor="#94A3B8"/>
+
+            <!-- CONTENEDOR DE BOTONES (Uno al lado del otro) -->
+            <Grid 
+        ColumnDefinitions="*,*" 
+        ColumnSpacing="12"
+        Margin="0,8,0,0">
+
+                <Button
+            Grid.Column="0"
+            Text="📦 Entregas"
+            HeightRequest="48"
+            CornerRadius="16"
+            BackgroundColor="#2563EB"
+            TextColor="White"
+            FontSize="15"
+            FontAttributes="Bold"
+            Clicked="OnAbrirEntregas"/>
+
+                <Button
+            Grid.Column="1"
+            Text="Jornadas"
+            HeightRequest="48"
+            CornerRadius="16"
+            BackgroundColor="#1E293B"
+            TextColor="White"
+            FontSize="15"
+            FontAttributes="Bold"
+            Clicked="OnAbrirJornadas"/>
+
+            </Grid>
+
+        </VerticalStackLayout>
+
+
+        <!-- ================================================= -->
+        <!-- CHAT -->
+        <!-- ================================================= -->
+
+        <CollectionView
+            x:Name="ChatCollection"
+            Grid.Row="1"
+            ItemsSource="{Binding Mensajes}"
+            Margin="15,0">
+
+            <CollectionView.ItemTemplate>
+
+                <DataTemplate>
+
+                    <Grid Padding="0,8">
+
+                        <Frame
+                            Padding="16"
+                            CornerRadius="25"
+                            HasShadow="False"
+                            MaximumWidthRequest="320">
+
+                            <Frame.Triggers>
+
+                                <!-- MENSAJE USUARIO -->
+
+                                <DataTrigger
+                                    TargetType="Frame"
+                                    Binding="{Binding EsUsuario}"
+                                    Value="True">
+
+                                    <Setter
+                                        Property="BackgroundColor"
+                                        Value="#2563EB"/>
+
+                                    <Setter
+                                        Property="HorizontalOptions"
+                                        Value="End"/>
+
+                                </DataTrigger>
+
+
+                                <!-- MENSAJE ASISTENTE -->
+
+                                <DataTrigger
+                                    TargetType="Frame"
+                                    Binding="{Binding EsUsuario}"
+                                    Value="False">
+
+                                    <Setter
+                                        Property="BackgroundColor"
+                                        Value="#1E293B"/>
+
+                                    <Setter
+                                        Property="HorizontalOptions"
+                                        Value="Start"/>
+
+                                </DataTrigger>
+
+                            </Frame.Triggers>
+
+                            <Label
+                                Text="{Binding Texto}"
+                                TextColor="White"
+                                FontSize="16"/>
+
+                        </Frame>
+
+                    </Grid>
+
+                </DataTemplate>
+
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+
+        <!-- ================================================= -->
+        <!-- INPUT -->
+        <!-- ================================================= -->
+
+        <Grid
+            Grid.Row="2"
+            Padding="15,10,15,20"
+            ColumnDefinitions="*,Auto"
+            ColumnSpacing="10">
+
+            <!-- CAMPO DE TEXTO -->
+
+            <Frame
+                Grid.Column="0"
+                BackgroundColor="#1E293B"
+                CornerRadius="28"
+                Padding="15,0"
+                HasShadow="False"
+                HeightRequest="58">
+
+                <Entry
+                    Text="{Binding TextoEntrada}"
+                    Placeholder="Escribe un barrio o comando..."
+                    PlaceholderColor="#64748B"
+                    TextColor="White"
+                    FontSize="16"
+                    VerticalOptions="Center"
+                    ReturnType="Send"
+                    Completed="OnEnviarMensaje"/>
+
+            </Frame>
+
+
+            <!-- BOTÓN ENVIAR -->
+
+            <Button
+                Grid.Column="1"
+                Text="➤"
+                WidthRequest="58"
+                HeightRequest="58"
+                CornerRadius="29"
+                BackgroundColor="#2563EB"
+                TextColor="White"
+                FontSize="25"
+                Clicked="OnEnviarMensaje"/>
+
+        </Grid>
+
+    </Grid>
+
+</ContentPage>

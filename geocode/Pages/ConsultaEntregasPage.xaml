@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="geocode.Pages.ConsultaEntregasPage"
+    BackgroundColor="#0F172A"
+    Shell.NavBarIsVisible="False">
+
+    <Grid
+        RowDefinitions="Auto,*">
+
+
+        <!-- ===================================================== -->
+        <!-- HEADER -->
+        <!-- ===================================================== -->
+
+        <Grid
+            Padding="20,18"
+            ColumnDefinitions="Auto,*"
+            ColumnSpacing="15">
+
+            <Button
+                Grid.Column="0"
+                Text="‹"
+                FontSize="34"
+                WidthRequest="50"
+                HeightRequest="50"
+                CornerRadius="25"
+                BackgroundColor="#1E293B"
+                TextColor="White"
+                Clicked="OnVolver"/>
+
+
+            <VerticalStackLayout
+                Grid.Column="1"
+                VerticalOptions="Center"
+                Spacing="2">
+
+                <Label
+                    Text="LISTA DE PEDIDOS"
+                    FontSize="22"
+                    FontAttributes="Bold"
+                    TextColor="White"/>
+
+                <Label
+                    Text="Consulta de la jornada"
+                    FontSize="13"
+                    TextColor="#94A3B8"/>
+
+            </VerticalStackLayout>
+
+        </Grid>
+
+
+        <!-- ===================================================== -->
+        <!-- CONTENIDO -->
+        <!-- ===================================================== -->
+
+        <ScrollView
+            Grid.Row="1">
+
+            <VerticalStackLayout
+                Padding="20,5,20,30"
+                Spacing="18">
+
+
+                <!-- ================================================= -->
+                <!-- BUSCADOR -->
+                <!-- ================================================= -->
+
+                <Border
+                    BackgroundColor="#1E293B"
+                    StrokeThickness="0"
+                    StrokeShape="RoundRectangle 15"
+                    Padding="15,0"
+                    HeightRequest="58">
+
+                    <Grid
+                        ColumnDefinitions="Auto,*">
+
+                        <Label
+                            Grid.Column="0"
+                            Text="🔎"
+                            FontSize="22"
+                            VerticalOptions="Center"
+                            Margin="0,0,10,0"/>
+
+                        <Entry
+                            Grid.Column="1"
+                            Text="{Binding Busqueda}"
+                            Placeholder="Factura, cajero o domiciliario"
+                            PlaceholderColor="#64748B"
+                            TextColor="White"
+                            FontSize="17"
+                            ClearButtonVisibility="WhileEditing"
+                            VerticalOptions="Center"/>
+
+                    </Grid>
+
+                </Border>
+
+
+                <!-- ================================================= -->
+                <!-- ACTUALIZAR -->
+                <!-- ================================================= -->
+
+                <Button
+                    Text="↻  ACTUALIZAR LISTA"
+                    HeightRequest="50"
+                    CornerRadius="14"
+                    BackgroundColor="#1E293B"
+                    TextColor="White"
+                    FontSize="15"
+                    Command="{Binding ActualizarCommand}"/>
+
+
+                <!-- ================================================= -->
+                <!-- MENSAJE -->
+                <!-- ================================================= -->
+
+                <Label
+                    Text="{Binding Mensaje}"
+                    TextColor="#F87171"
+                    FontSize="15"
+                    IsVisible="{Binding Mensaje,
+                        Converter={StaticResource
+                        StringNotEmptyConverter}}"/>
+
+
+                <!-- ================================================= -->
+                <!-- LISTA -->
+                <!-- ================================================= -->
+
+                <VerticalStackLayout
+                    Spacing="18"
+                    BindableLayout.ItemsSource="{Binding Grupos}">
+
+                    <BindableLayout.ItemTemplate>
+
+                        <DataTemplate>
+
+                            <Border
+                                BackgroundColor="#1E293B"
+                                StrokeThickness="0"
+                                StrokeShape="RoundRectangle 18"
+                                Padding="18">
+
+                                <VerticalStackLayout
+                                    Spacing="12">
+
+
+                                    <!-- =========================== -->
+                                    <!-- CAJERO -->
+                                    <!-- =========================== -->
+
+                                    <Grid
+                                        ColumnDefinitions="*,Auto">
+
+                                        <VerticalStackLayout
+                                            Grid.Column="0"
+                                            Spacing="2">
+
+                                            <Label
+                                                Text="{Binding Cajero}"
+                                                TextColor="White"
+                                                FontSize="19"
+                                                FontAttributes="Bold"/>
+
+                                            <Label
+                                                Text="{Binding Serie,
+                                                    StringFormat='Serie: {0}'}"
+                                                TextColor="#60A5FA"
+                                                FontSize="14"/>
+
+                                        </VerticalStackLayout>
+
+
+                                        <Label
+                                            Grid.Column="1"
+                                            Text="{Binding Entregas.Count,
+                                                StringFormat='{0} pedidos'}"
+                                            TextColor="#94A3B8"
+                                            FontSize="13"
+                                            VerticalOptions="Center"/>
+
+                                    </Grid>
+
+
+                                    <BoxView
+                                        HeightRequest="1"
+                                        BackgroundColor="#334155"/>
+
+
+                                    <!-- =========================== -->
+                                    <!-- PEDIDOS -->
+                                    <!-- =========================== -->
+
+                                    <VerticalStackLayout
+                                        Spacing="0"
+                                        BindableLayout.ItemsSource="{Binding Entregas}">
+
+                                        <BindableLayout.ItemTemplate>
+
+                                            <DataTemplate>
+
+                                                <Grid
+                                                    Padding="4,10"
+                                                    ColumnDefinitions="*,Auto">
+
+                                                    <Label
+                                                        Grid.Column="0"
+                                                        Text="{Binding NumeroFactura}"
+                                                        TextColor="White"
+                                                        FontSize="18"
+                                                        FontAttributes="Bold"/>
+
+                                                    <Border
+                                                        Grid.Column="1"
+                                                        BackgroundColor="#334155"
+                                                        StrokeThickness="0"
+                                                        StrokeShape="RoundRectangle 10"
+                                                        Padding="12,5">
+
+                                                        <Label
+                                                            Text="{Binding Domiciliario}"
+                                                            TextColor="#60A5FA"
+                                                            FontSize="17"
+                                                            FontAttributes="Bold"/>
+
+                                                    </Border>
+
+                                                </Grid>
+
+                                            </DataTemplate>
+
+                                        </BindableLayout.ItemTemplate>
+
+                                    </VerticalStackLayout>
+
+                                </VerticalStackLayout>
+
+                            </Border>
+
+                        </DataTemplate>
+
+                    </BindableLayout.ItemTemplate>
+
+                </VerticalStackLayout>
+
+
+                <!-- ================================================= -->
+                <!-- SIN RESULTADOS -->
+                <!-- ================================================= -->
+
+                <VerticalStackLayout
+                    Spacing="8"
+                    HorizontalOptions="Center"
+                    Padding="20"
+                    IsVisible="{Binding HayResultados,
+                        Converter={StaticResource
+                        InverseBoolConverter}}">
+
+                    <Label
+                        Text="📭"
+                        FontSize="40"
+                        HorizontalOptions="Center"/>
+
+                    <Label
+                        Text="No hay pedidos para mostrar"
+                        TextColor="#94A3B8"
+                        FontSize="16"
+                        HorizontalOptions="Center"/>
+
+                </VerticalStackLayout>
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+    </Grid>
+
+</ContentPage>

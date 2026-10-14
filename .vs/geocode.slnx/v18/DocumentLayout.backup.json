@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\geocode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\viewmodels\\jornadaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\viewmodels\\jornadaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\services\\jornadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\services\\jornadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\pages\\jornadapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\pages\\jornadapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\models\\jornada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\models\\jornada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\models\\jornadacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\models\\jornadacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|c:\\users\\usuario\\source\\repos\\geocode\\geocode\\services\\jornadacajeroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4227F-E6C8-4572-6A3C-0FF24F3FC6C9}|geocode\\geocode.csproj|solutionrelative:geocode\\services\\jornadacajeroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jornada.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\models\\Jornada.cs",
+              "RelativeDocumentMoniker": "geocode\\models\\Jornada.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\models\\Jornada.cs",
+              "RelativeToolTip": "geocode\\models\\Jornada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:43:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JornadaCajero.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\models\\JornadaCajero.cs",
+              "RelativeDocumentMoniker": "geocode\\models\\JornadaCajero.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\models\\JornadaCajero.cs",
+              "RelativeToolTip": "geocode\\models\\JornadaCajero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:37:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JornadaCajeroService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\services\\JornadaCajeroService.cs",
+              "RelativeDocumentMoniker": "geocode\\services\\JornadaCajeroService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\services\\JornadaCajeroService.cs",
+              "RelativeToolTip": "geocode\\services\\JornadaCajeroService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:37:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JornadaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\Pages\\JornadaPage.xaml",
+              "RelativeDocumentMoniker": "geocode\\Pages\\JornadaPage.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\Pages\\JornadaPage.xaml",
+              "RelativeToolTip": "geocode\\Pages\\JornadaPage.xaml",
+              "ViewState": "AgIAAHAEAAAAAAAAAAAAAHwEAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-20T15:16:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JornadaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\ViewModels\\JornadaViewModel.cs",
+              "RelativeDocumentMoniker": "geocode\\ViewModels\\JornadaViewModel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\ViewModels\\JornadaViewModel.cs",
+              "RelativeToolTip": "geocode\\ViewModels\\JornadaViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA1wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:14:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JornadaService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\services\\JornadaService.cs",
+              "RelativeDocumentMoniker": "geocode\\services\\JornadaService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\geocode\\geocode\\services\\JornadaService.cs",
+              "RelativeToolTip": "geocode\\services\\JornadaService.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAiwOcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:13:07.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

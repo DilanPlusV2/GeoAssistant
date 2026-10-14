@@ -1,0 +1,1305 @@
+{
+  "sincelejo": [
+    {
+      "comuna": "Comuna 1 - Noroeste",
+      "barrios": [
+        {
+          "nombre": "2 de Septiembre",
+          "lat": 9.3171837,
+          "lng": -75.4080797
+        },
+        {
+          "nombre": "Ciudad Satélite",
+          "lat": 9.2959857,
+          "lng": -75.414424
+        },
+        {
+          "nombre": "Colegio Dulce Nombre de Jesús",
+          "lat": 9.3100789,
+          "lng": -75.4112553
+        },
+        {
+          "nombre": "Divino Salvador",
+          "lat": 9.3216466,
+          "lng": -75.4160157
+        },
+        {
+          "nombre": "El Ruby Moto Repuestos",
+          "lat": 9.3126930,
+          "lng": -75.4131243
+        },
+        {
+          "nombre": "La Estrella",
+          "lat": 9.309668,
+          "lng": -75.4115531
+        },
+        {
+          "nombre": "La Pollita",
+          "lat": 9.3172905,
+          "lng": -75.4120257
+        },
+        {
+          "nombre": "La Selva",
+          "lat": 9.2972914,
+          "lng": -75.4121882
+        },
+        {
+          "nombre": "Las Canarias",
+          "lat": 9.3057167,
+          "lng": -75.4133171
+        },
+        {
+          "nombre": "Los Laureles",
+          "lat": 9.3155053,
+          "lng": -75.4155571
+        },
+        {
+          "nombre": "Media Luna",
+          "lat": 9.3109821,
+          "lng": -75.4108517
+        },
+        {
+          "nombre": "Pablo Sexto",
+          "lat": 9.3066972,
+          "lng": -75.4107970
+        },
+        {
+          "nombre": "El pescador",
+          "lat": 9.3083974,
+          "lng": -75.4125206
+        },
+        {
+          "nombre": "San Rafael",
+          "lat": 9.3085481,
+          "lng": -75.4110235
+        },
+        {
+          "nombre": "Vallejo",
+          "lat": 9.3060854,
+          "lng": -75.4120924
+        },
+        {
+          "nombre": "Villa Orieta",
+          "lat": 9.3126276,
+          "lng": -75.4113595
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 2 - Oeste",
+      "barrios": [
+        {
+          "nombre": "Calle Sucre",
+          "lat": 9.3079304,
+          "lng": -75.4036513
+        },
+        {
+          "nombre": "Calle Cauca",
+          "lat": 9.3005286,
+          "lng": -75.3923649
+        },
+        {
+          "nombre": "Calle California",
+          "lat": 9.2998767,
+          "lng": -75.3943735
+        },
+        {
+          "nombre": "Calle La Esperanza",
+          "lat": 9.2779900,
+          "lng": -75.4071602
+        },
+        {
+          "nombre": "Calle Las Flores",
+          "lat": 9.3061319,
+          "lng": -75.3964501
+        },
+        {
+          "nombre": "Camilo Torres",
+          "lat": 9.3021379,
+          "lng": -75.4094107
+        },
+        {
+          "nombre": "Reserva Park",
+          "lat": 9.2950740,
+          "lng": -75.3919929
+        },
+        {
+          "nombre": "Cerrito Colorado",
+          "lat": 9.2927061,
+          "lng": -75.4108076
+        },
+        {
+          "nombre": "Vitar",
+          "lat": 9.3069122,
+          "lng": -75.4072885
+        },
+        {
+          "nombre": "Chupundun",
+          "lat": 9.291655,
+          "lng": -75.501748
+        },
+        {
+          "nombre": "El Bongo",
+          "lat": 9.3037056,
+          "lng": -75.3947179
+        },
+        {
+          "nombre": "El Olimpo",
+          "lat": 9.3041387,
+          "lng": -75.4079432
+        },
+        {
+          "nombre": "El Pinar",
+          "lat": 9.3007738,
+          "lng": -75.4080381
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "lat": 9.3090473,
+          "lng": -75.4082290
+        },
+        {
+          "nombre": "Escuela ITI",
+          "lat": 9.3043292,
+          "lng": -75.4068980
+        },
+        {
+          "nombre": "Ipanema",
+          "lat": 9.3017421,
+          "lng": -75.4060112
+        },
+        {
+          "nombre": "Kennedy",
+          "lat": 9.3056039,
+          "lng": -75.4046938
+        },
+        {
+          "nombre": "San Carlos",
+          "lat": 9.3074855,
+          "lng": -75.4034813
+        },
+        {
+          "nombre": "Santa María",
+          "lat": 9.3066191,
+          "lng": -75.4054945
+        },
+        {
+          "nombre": "Sevilla I",
+          "lat": 9.3087561,
+          "lng": -75.4048112
+        },
+        {
+          "nombre": "Urbanización Sevilla",
+          "lat": 9.3099336,
+          "lng": -75.4086243
+        },
+        {
+          "nombre": "Los Andes",
+          "lat": 9.3135728,
+          "lng": -75.4048578
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 3 - Suroeste",
+      "barrios": [
+        {
+          "nombre": "20 de Enero",
+          "lat": 9.2782361,
+          "lng": -75.4105936
+        },
+        {
+          "nombre": "6 de Febrero",
+          "lat": 9.2930471,
+          "lng": -75.409598
+        },
+        {
+          "nombre": "Argelia",
+          "lat": 9.2815798,
+          "lng": -75.4043031
+        },
+        {
+          "nombre": "Barlovento",
+          "lat": 9.2914729,
+          "lng": -75.4108138
+        },
+        {
+          "nombre": "Bolívar I",
+          "lat": 9.2712541,
+          "lng": -75.4112093
+        },
+        {
+          "nombre": "Cerrito Colorado",
+          "lat": 9.2927061,
+          "lng": -75.4108076
+        },
+        {
+          "nombre": "El Caribe",
+          "lat": 9.2750505,
+          "lng": -75.4107908
+        },
+        {
+          "nombre": "El Cortijo",
+          "lat": 9.2858082,
+          "lng": -75.4076457
+        },
+        {
+          "nombre": "Quintas de Alejandría",
+          "lat": 9.2992351,
+          "lng": -75.3746028
+        },
+        {
+          "nombre": "Quinta de Alejandría",
+          "lat": 9.2991715,
+          "lng": -75.3745170
+        },
+        {
+          "nombre": "Urbanización Valles de Alejandría",
+          "lat": 9.2992562,
+          "lng": -75.3739591
+        },
+        {
+          "nombre": "Brisas de Comfasucre",
+          "lat": 9.2847563,
+          "lng": -75.4109428
+        },
+        {
+          "nombre": "Gaitan",
+          "lat": 9.2842427,
+          "lng": -75.4039987
+        },
+        {
+          "nombre": "La Bastilla",
+          "lat": 9.2937901,
+          "lng": -75.4020439
+        },
+        {
+          "nombre": "La Bucaramanga",
+          "lat": 9.2971406,
+          "lng": -75.4045532
+        },
+        {
+          "nombre": "La Candelaria",
+          "lat": 9.3305962,
+          "lng": -75.3105159
+        },
+        {
+          "nombre": "La Esperanza",
+          "lat": 9.3113624,
+          "lng": -75.3940727
+        },
+        {
+          "nombre": "La Independencia",
+          "lat": 9.2753228,
+          "lng": -75.412317
+        },
+        {
+          "nombre": "La Terraza I",
+          "lat": 9.2890468,
+          "lng": -75.3947391
+        },
+        {
+          "nombre": "Las Colinas",
+          "lat": 9.2952173,
+          "lng": -75.4046011
+        },
+        {
+          "nombre": "Las Delicias",
+          "lat": 9.284956,
+          "lng": -75.4010908
+        },
+        {
+          "nombre": "Las Gaviotas",
+          "lat": 9.279702,
+          "lng": -75.4114615
+        },
+        {
+          "nombre": "Los Tejares",
+          "lat": 9.2950156,
+          "lng": -75.4033692
+        },
+        {
+          "nombre": "Pioneros",
+          "lat": 9.2919137,
+          "lng": -75.4081379
+        },
+        {
+          "nombre": "Nuevo Pioneros",
+          "lat": 9.2870725,
+          "lng": -75.4083057
+        },
+        {
+          "nombre": "Rita de Arrazola",
+          "lat": 9.2939116,
+          "lng": -75.4053353
+        },
+        {
+          "nombre": "Sinai",
+          "lat": 9.2762741,
+          "lng": -75.4121184
+        },
+        {
+          "nombre": "Villa Ana",
+          "lat": 9.2631700,
+          "lng": -75.3705483
+        },
+        {
+          "nombre": "Villa Suiza",
+          "lat": 9.295847,
+          "lng": -75.3991411
+        },
+        {
+          "nombre": "Barrio Nueva esperanza",
+          "lat": 9.2935273,
+          "lng": -75.3829020
+        },
+        {
+          "nombre": "Parque Industrial",
+          "lat": 9.2742718,
+          "lng": -75.4085916
+        },
+        {
+          "nombre": "Urbanización Rosedal",
+          "lat": 9.2681074,
+          "lng": -75.4116648
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 4 - Central-Oeste",
+      "barrios": [
+        {
+          "nombre": "20 de Julio I",
+          "lat": 9.3059149,
+          "lng": -75.4022711
+        },
+        {
+          "nombre": "20 de Julio II",
+          "lat": 9.3059149,
+          "lng": -75.4022711
+        },
+        {
+          "nombre": "28 de Mayo",
+          "lat": 9.2996447,
+          "lng": -75.3962565
+        },
+        {
+          "nombre": "Alfonso López",
+          "lat": 9.2921051,
+          "lng": -75.3952334
+        },
+        {
+          "nombre": "California",
+          "lat": 9.3066443,
+          "lng": -75.3993398
+        },
+        {
+          "nombre": "Corea",
+          "lat": 9.2963011,
+          "lng": -75.3932668
+        },
+        {
+          "nombre": "Calle Corea",
+          "lat": 9.2969608,
+          "lng": -75.3933173
+        },
+        {
+          "nombre": "Cruz de Mayo",
+          "lat": 9.3072625,
+          "lng": -75.3984706
+        },
+        {
+          "nombre": "El Carmen",
+          "lat": 9.2847313,
+          "lng": -75.3859696
+        },
+        {
+          "nombre": "El Zumbado",
+          "lat": 9.2944,
+          "lng": -75.3916478
+        },
+        {
+          "nombre": "El Progreso",
+          "lat": 9.2899336,
+          "lng": -75.3842503
+        },
+        {
+          "nombre": "España",
+          "lat": 9.2924575,
+          "lng": -75.3930165
+        },
+        {
+          "nombre": "José Germán",
+          "lat": 9.2906473,
+          "lng": -75.394595
+        },
+        {
+          "nombre": "La Narcisa",
+          "lat": 9.2890468,
+          "lng": -75.3947391
+        },
+        {
+          "nombre": "La Pajuela",
+          "lat": 9.3030302,
+          "lng": -75.3976308
+        },
+        {
+          "nombre": "Las Américas",
+          "lat": 9.2997733,
+          "lng": -75.4029485
+        },
+        {
+          "nombre": "Las Mercedes I",
+          "lat": 9.2897669,
+          "lng": -75.3923943
+        },
+        {
+          "nombre": "Las Mercedes II",
+          "lat": 9.2897669,
+          "lng": -75.3923943
+        },
+        {
+          "nombre": "Los Libertadores",
+          "lat": 9.302217,
+          "lng": -75.4004774
+        },
+        {
+          "nombre": "Los Lobos",
+          "lat": 9.3003166,
+          "lng": -75.3937812
+        },
+        {
+          "nombre": "Majagual",
+          "lat": 9.2902199,
+          "lng": -75.3977664
+        },
+        {
+          "nombre": "Clínica Salud Social",
+          "lat": 9.2961181,
+          "lng": -75.3969926
+        },
+        {
+          "nombre": "El Marañón",
+          "lat": 9.2942205,
+          "lng": -75.3928481
+        },
+        {
+          "nombre": "Mochila",
+          "lat": 9.299675,
+          "lng": -75.3996106
+        },
+        {
+          "nombre": "Nuevo Majagual",
+          "lat": 9.2945048,
+          "lng": -75.3985323
+        },
+        {
+          "nombre": "Nuevo México",
+          "lat": 9.2904665,
+          "lng": -75.3987941
+        },
+        {
+          "nombre": "Pasacorriendo",
+          "lat": 9.2972585,
+          "lng": -75.3963714
+        },
+        {
+          "nombre": "Puerto Escondido",
+          "lat": 9.3050549,
+          "lng": -75.3971956
+        },
+        {
+          "nombre": "San José",
+          "lat": 9.305927,
+          "lng": -75.3993469
+        },
+        {
+          "nombre": "San Vicente I",
+          "lat": 9.2882976,
+          "lng": -75.3966596
+        },
+        {
+          "nombre": "San Vicente II",
+          "lat": 9.2882976,
+          "lng": -75.3966596
+        },
+        {
+          "nombre": "Santa Fe",
+          "lat": 9.2965853,
+          "lng": -75.3981484
+        },
+        {
+          "nombre": "Urbanización Central I",
+          "lat": 9.2944746,
+          "lng": -75.3960308
+        },
+        {
+          "nombre": "Urbanización Central II",
+          "lat": 9.2944746,
+          "lng": -75.3960308
+        },
+        {
+          "nombre": "Conjunto Residencial Las Acacias",
+          "lat": 9.2976068,
+          "lng": -75.3816714
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 5 - Central",
+      "barrios": [
+        {
+          "nombre": "7 de Agosto",
+          "lat": 9.3063186,
+          "lng": -75.3907487
+        },
+        {
+          "nombre": "4 vientos",
+          "lat": 9.3095982,
+          "lng": -75.3937906
+        },
+        {
+          "nombre": "San Antonio",
+          "lat": 9.3104583,
+          "lng": -75.3908346
+        },
+        {
+          "nombre": "Avenida Sincelejo",
+          "lat": 9.2975224,
+          "lng": -75.3851833
+        },
+        {
+          "nombre": "Buenos Aires",
+          "lat": 9.2946664,
+          "lng": -75.3882621
+        },
+        {
+          "nombre": "Centro",
+          "lat": 9.303544,
+          "lng": -75.3953184
+        },
+        {
+          "nombre": "Chacuri",
+          "lat": 9.3068777,
+          "lng": -75.3981674
+        },
+        {
+          "nombre": "Charconcito",
+          "lat": 9.3060074,
+          "lng": -75.3927046
+        },
+        {
+          "nombre": "Ciudad Jardín",
+          "lat": 9.2976034,
+          "lng": -75.3904577
+        },
+        {
+          "nombre": "Coliseo de Ferias",
+          "lat": 9.2989499,
+          "lng": -75.3832993
+        },
+        {
+          "nombre": "Cuatro Vientos",
+          "lat": 9.3074883,
+          "lng": -75.3930023
+        },
+        {
+          "nombre": "El Cauca",
+          "lat": 9.3006086,
+          "lng": -75.3901021
+        },
+        {
+          "nombre": "El Prado",
+          "lat": 9.3111057,
+          "lng": -75.3958868
+        },
+        {
+          "nombre": "El Tendal",
+          "lat": 9.3253985,
+          "lng": -75.2972954
+        },
+        {
+          "nombre": "Fátima",
+          "lat": 9.3101862,
+          "lng": -75.3973137
+        },
+        {
+          "nombre": "Gobernación de Sucre",
+          "lat": 9.3018399,
+          "lng": -75.3854506
+        },
+        {
+          "nombre": "La Esperanza",
+          "lat": 9.3113624,
+          "lng": -75.3940727
+        },
+        {
+          "nombre": "La Ford",
+          "lat": 9.3069926,
+          "lng": -75.394657
+        },
+        {
+          "nombre": "Parque Santander Alto Ford",
+          "lat": 9.3029894,
+          "lng": -75.3943990
+        },
+        {
+          "nombre": "Que tal licores",
+          "lat": 9.2991895,
+          "lng": -75.3775427
+        },
+        {
+          "nombre": "La Lucha",
+          "lat": 9.3095369,
+          "lng": -75.3954097
+        },
+        {
+          "nombre": "La María",
+          "lat": 9.2997828,
+          "lng": -75.3922004
+        },
+        {
+          "nombre": "La Palma I",
+          "lat": 9.3083097,
+          "lng": -75.3914551
+        },
+        {
+          "nombre": "La Palma II",
+          "lat": 9.3124182,
+          "lng": -75.390906
+        },
+        {
+          "nombre": "Edificio Mediterraneo",
+          "lat": 9.3075534,
+          "lng": -75.3940813
+        },
+        {
+          "nombre": "Las Angustias",
+          "lat": 9.301779,
+          "lng": -75.3899373
+        },
+        {
+          "nombre": "Las Flores",
+          "lat": 9.3056694,
+          "lng": -75.3960866
+        },
+        {
+          "nombre": "Luís Carlos Galán",
+          "lat": 9.2980305,
+          "lng": -75.3894508
+        },
+        {
+          "nombre": "Mercado Publico",
+          "lat": 9.2943676,
+          "lng": -75.3861154
+        },
+        {
+          "nombre": "Palermo",
+          "lat": 9.3028917,
+          "lng": -75.3860196
+        },
+        {
+          "nombre": "Petaca",
+          "lat": 9.3053401,
+          "lng": -75.3933462
+        },
+        {
+          "nombre": "Tacaloa",
+          "lat": 9.2898062,
+          "lng": -75.4049460
+        },
+        {
+          "nombre": "Barrio Villa Country",
+          "lat": 9.2905794,
+          "lng": -75.4030495
+        },
+        {
+          "nombre": "Urb Villa Country Parroquia niño Jesús",
+          "lat": 9.2905069,
+          "lng": -75.4038736
+        },
+        {
+          "nombre": "Urbanización Villa Country",
+          "lat": 9.2905096,
+          "lng": -75.4050162
+        },
+        {
+          "nombre": "Punto Norte",
+          "lat": 9.3104914,
+          "lng": -75.4005572
+        },
+        {
+          "nombre": "San Francisco",
+          "lat": 9.3091506,
+          "lng": -75.3993507
+        },
+        {
+          "nombre": "Terminal de Transporte",
+          "lat": 9.2953211,
+          "lng": -75.3834112
+        },
+        {
+          "nombre": "Barrio la Paz",
+          "lat": 9.2828527,
+          "lng": -75.3872461
+        },
+        {
+          "nombre": "Villa Paz",
+          "lat": 9.3076703,
+          "lng": -75.4168102
+        },
+        {
+          "nombre": "Clínica Santa María",
+          "lat": 9.3067771,
+          "lng": -75.3938024
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 6 - Norte",
+      "barrios": [
+        {
+          "nombre": "17 de Septiembre",
+          "lat": 9.3171837,
+          "lng": -75.4080797
+        },
+        {
+          "nombre": "6 de Enero",
+          "lat": 9.3150238,
+          "lng": -75.3930924
+        },
+        {
+          "nombre": "Altos del Rosario",
+          "lat": 9.3164945,
+          "lng": -75.4042028
+        },
+        {
+          "nombre": "Botero I",
+          "lat": 9.3162291,
+          "lng": -75.4003622
+        },
+        {
+          "nombre": "Botero II",
+          "lat": 9.3162291,
+          "lng": -75.4003622
+        },
+        {
+          "nombre": "Cárcel Nacional",
+          "lat": 9.3200733,
+          "lng": -75.3964559
+        },
+        {
+          "nombre": "Cielo Azul",
+          "lat": 9.3179558,
+          "lng": -75.398376
+        },
+        {
+          "nombre": "Ciudadela Universitaria",
+          "lat": 9.3178662,
+          "lng": -75.3897981
+        },
+        {
+          "nombre": "El Cabrero",
+          "lat": 9.3146279,
+          "lng": -75.3955951
+        },
+        {
+          "nombre": "Juan Bosco",
+          "lat": 9.3115447,
+          "lng": -75.3965377
+        },
+        {
+          "nombre": "La Fe",
+          "lat": 9.3157785,
+          "lng": -75.3961962
+        },
+        {
+          "nombre": "La Vega",
+          "lat": 9.3171166,
+          "lng": -75.3964936
+        },
+        {
+          "nombre": "Los Rosales",
+          "lat": 9.3205256,
+          "lng": -75.3934663
+        },
+        {
+          "nombre": "Urbanizacion los rosales",
+          "lat": 9.3232988,
+          "lng": -75.3923527
+        },
+        {
+          "nombre": "San Luis",
+          "lat": 9.3124949,
+          "lng": -75.3997007
+        },
+        {
+          "nombre": "San Roque",
+          "lat": 9.3150557,
+          "lng": -75.4020083
+        },
+        {
+          "nombre": "Tierra Grata",
+          "lat": 9.1415207,
+          "lng": -75.3332255
+        },
+        {
+          "nombre": "Urbanización Universal",
+          "lat": 9.31621,
+          "lng": -75.3934344
+        },
+        {
+          "nombre": "Versalles I",
+          "lat": 9.3111744,
+          "lng": -75.3991545
+        },
+        {
+          "nombre": "Versalles II",
+          "lat": 9.3111744,
+          "lng": -75.3991545
+        },
+        {
+          "nombre": "Vida I",
+          "lat": 9.3121362,
+          "lng": -75.4031964
+        },
+        {
+          "nombre": "Vida II",
+          "lat": 9.3121362,
+          "lng": -75.4031964
+        },
+        {
+          "nombre": "Villa Carmela",
+          "lat": 9.3189351,
+          "lng": -75.3931699
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 7 - Noreste",
+      "barrios": [
+        {
+          "nombre": "Boston",
+          "lat": 9.3007097,
+          "lng": -75.3793448
+        },
+        {
+          "nombre": "Cecar",
+          "lat": 9.3087516,
+          "lng": -75.3688575
+        },
+        {
+          "nombre": "Dulce Nombre",
+          "lat": 9.3090881,
+          "lng": -75.3877101
+        },
+        {
+          "nombre": "El Bosque",
+          "lat": 9.3055136,
+          "lng": -75.3914945
+        },
+        {
+          "nombre": "El Recreo",
+          "lat": 9.3070104,
+          "lng": -75.3868288
+        },
+        {
+          "nombre": "El Socorro",
+          "lat": 9.2943229,
+          "lng": -75.3674439
+        },
+        {
+          "nombre": "Florencia I",
+          "lat": 9.3102164,
+          "lng": -75.3828991
+        },
+        {
+          "nombre": "Florencia II",
+          "lat": 9.3081598,
+          "lng": -75.3827094
+        },
+        {
+          "nombre": "Gimnasio Altair",
+          "lat": 9.3102157,
+          "lng": -75.3694649
+        },
+        {
+          "nombre": "La Libertad",
+          "lat": 9.3126369,
+          "lng": -75.3832457
+        },
+        {
+          "nombre": "La Toscana",
+          "lat": 9.3051504,
+          "lng": -75.3832658
+        },
+        {
+          "nombre": "Las Brisas",
+          "lat": 9.3288374,
+          "lng": -75.4069396
+        },
+        {
+          "nombre": "Las Peñitas",
+          "lat": 9.3033717,
+          "lng": -75.3848542
+        },
+        {
+          "nombre": "Los Alpes",
+          "lat": 9.2968321,
+          "lng": -75.3848258
+        },
+        {
+          "nombre": "Hotel Mediterraneo",
+          "lat": 9.3017104,
+          "lng": -75.3747387
+        },
+        {
+          "nombre": "Urbanización Mediterraneo",
+          "lat": 9.2991551,
+          "lng": -75.3760485
+        },
+        {
+          "nombre": "Urbanización Mirador de Los Alpes",
+          "lat": 9.3193186,
+          "lng": -75.3701900
+        },
+        {
+          "nombre": "Edificio Mirador de Los Alpes",
+          "lat": 9.3136962,
+          "lng": -75.3695162
+        },
+        {
+          "nombre": "Clinica La Concepción",
+          "lat": 9.3074018,
+          "lng": -75.3701869
+        },
+        {
+          "nombre": "Las Margaritas",
+          "lat": 9.3092383,
+          "lng": -75.3805629
+        },
+        {
+          "nombre": "Margaritas I",
+          "lat": 9.3092383,
+          "lng": -75.3805629
+        },
+        {
+          "nombre": "Margaritas II",
+          "lat": 8.7761576,
+          "lng": -75.3243947
+        },
+        {
+          "nombre": "Medellín",
+          "lat": 9.3027834,
+          "lng": -75.375636
+        },
+        {
+          "nombre": "Paraíso",
+          "lat": 9.3083059,
+          "lng": -75.4032075
+        },
+        {
+          "nombre": "Porvenir",
+          "lat": 9.3115823,
+          "lng": -75.3842378
+        },
+        {
+          "nombre": "Puerta Roja",
+          "lat": 9.3124948,
+          "lng": -75.3881304
+        },
+        {
+          "nombre": "San Miguel",
+          "lat": 9.3170646,
+          "lng": -75.3710047
+        },
+        {
+          "nombre": "Sincelejito",
+          "lat": 9.3033137,
+          "lng": -75.3746711
+        },
+        {
+          "nombre": "Universidad de Sucre",
+          "lat": 9.3156487,
+          "lng": -75.3883279
+        },
+        {
+          "nombre": "Venecia",
+          "lat": 9.307183,
+          "lng": -75.3773306
+        },
+        {
+          "nombre": "Villa Venecia",
+          "lat": 9.3063612,
+          "lng": -75.3811145
+        },
+
+        {
+          "nombre": "Altos de Venecia",
+          "lat": 9.3081993,
+          "lng": -75.3773432
+        },
+        {
+          "nombre": "Nueva Venecia",
+          "lat": 9.3096044,
+          "lng": -75.376317
+        },
+        {
+          "nombre": "Serrania de San Jeronimo",
+          "lat": 9.3174973,
+          "lng": -75.4337811
+        },
+        {
+          "nombre": "Villa Natalia",
+          "lat": 9.3144917,
+          "lng": -75.3849513
+        },
+        {
+          "nombre": "Villa Padua",
+          "lat": 9.3052371,
+          "lng": -75.3750166
+        },
+        {
+          "nombre": "El Porvenir",
+          "lat": 9.3119560,
+          "lng": -75.3860324
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 8 - Sur",
+      "barrios": [
+        {
+          "nombre": "Antonio Nariño",
+          "lat": 9.2819035,
+          "lng": -75.3863385
+        },
+        {
+          "nombre": "Calle Nariño",
+          "lat": 9.3006956,
+          "lng": -75.3957437
+        },
+        {
+          "nombre": "Calle Santander",
+          "lat": 9.3018048,
+          "lng": -75.3966728
+        },
+        {
+          "nombre": "Divino Niño",
+          "lat": 9.287324,
+          "lng": -75.3829543
+        },
+        {
+          "nombre": "El Cocuelo",
+          "lat": 9.2933941,
+          "lng": -75.3852365
+        },
+        {
+          "nombre": "Gran Colombia",
+          "lat": 9.2845525,
+          "lng": -75.3871313
+        },
+        {
+          "nombre": "La Campiña",
+          "lat": 9.289588,
+          "lng": -75.3874883
+        },
+        {
+          "nombre": "La Esmeralda",
+          "lat": 9.2854311,
+          "lng": -75.3831604
+        },
+        {
+          "nombre": "La Manga",
+          "lat": 9.7456242,
+          "lng": -75.5201697
+        },
+        {
+          "nombre": "La Paz",
+          "lat": 9.2827432,
+          "lng": -75.3848995
+        },
+        {
+          "nombre": "La Victoria",
+          "lat": 9.2882554,
+          "lng": -75.3864588
+        },
+        {
+          "nombre": "Minuto de Dios",
+          "lat": 9.283477,
+          "lng": -75.3932228
+        },
+        {
+          "nombre": "Normandía",
+          "lat": 9.284946,
+          "lng": -75.3837233
+        },
+        {
+          "nombre": "Nueva Esperanza",
+          "lat": 9.2828687,
+          "lng": -75.3841845
+        },
+        {
+          "nombre": "Olaya Herrera",
+          "lat": 9.2870042,
+          "lng": -75.3817321
+        },
+        {
+          "nombre": "Santa Marta",
+          "lat": 9.2883014,
+          "lng": -75.3909213
+        },
+        {
+          "nombre": "Simón Bolívar",
+          "lat": 9.2873105,
+          "lng": -75.3876481
+        },
+        {
+          "nombre": "Uribe Uribe II",
+          "lat": 9.2864595,
+          "lng": -75.3784933
+        },
+        {
+          "nombre": "Uribe Uribe",
+          "lat": 9.2864595,
+          "lng": -75.3784933
+        },
+        {
+          "nombre": "Villa Mady I",
+          "lat": 9.2858803,
+          "lng": -75.3900877
+        },
+        {
+          "nombre": "Villa Mady II",
+          "lat": 9.2858803,
+          "lng": -75.3900877
+        },
+        {
+          "nombre": "Villa María",
+          "lat": 9.2503111,
+          "lng": -75.4213141
+        }
+      ]
+    },
+    {
+      "comuna": "Comuna 9 - Sureste",
+      "barrios": [
+        {
+          "nombre": "Bogotá",
+          "lat": 9.294715,
+          "lng": -75.382365
+        },
+        {
+          "nombre": "Cielo Azul",
+          "lat": 9.3179558,
+          "lng": -75.398376
+        },
+        {
+          "nombre": "Colegio Jean Piaget",
+          "lat": 9.5203185,
+          "lng": -75.5836208
+        },
+        {
+          "nombre": "Colegio las Mercedes",
+          "lat": 9.2988786,
+          "lng": -75.3758597
+        },
+        {
+          "nombre": "Liceo Panamericano",
+          "lat": 9.3039062,
+          "lng": -75.3936914
+        },
+        {
+          "nombre": "Mano de Dios",
+          "lat": 9.2942734,
+          "lng": -75.3800106
+        },
+        {
+          "nombre": "Postobón",
+          "lat": 9.2790925,
+          "lng": -75.4049638
+        },
+        {
+          "nombre": "Progreso",
+          "lat": 9.289226,
+          "lng": -75.3822487
+        },
+        {
+          "nombre": "Santa Cecilia",
+          "lat": 9.2960945,
+          "lng": -75.379317
+        },
+        {
+          "nombre": "Trinidad",
+          "lat": 9.2911498,
+          "lng": -75.3830885
+        },
+        {
+          "nombre": "Verbel I",
+          "lat": 9.2911203,
+          "lng": -75.3868359
+        },
+        {
+          "nombre": "Verbel II",
+          "lat": 9.2847313,
+          "lng": -75.3859696
+        },
+        {
+          "nombre": "Conjunto Residencial BellaVista",
+          "lat": 9.3216158,
+          "lng": -75.3863811
+        },
+        {
+          "nombre": "Bella Vista",
+          "lat": 9.2989162,
+          "lng": -75.3736782
+        }
+      ]
+    },
+    {
+      "comuna": "Barrios Nuevos",
+      "barrios": [
+        {
+          "nombre": "Altos de la Sabana",
+          "lat": 9.3239119,
+          "lng": -75.4066278
+        },
+        {
+          "nombre": "Guacarí",
+          "lat": 9.301486,
+          "lng": -75.38279
+        },
+        {
+          "nombre": "Torres de Guacarí",
+          "lat": 9.2984631,
+          "lng": -75.3741459
+        },
+        {
+          "nombre": "Tierra Linda",
+          "lat": 9.2913653,
+          "lng": -75.4027814
+        },
+        {
+          "nombre": "Reserva de la Sierra",
+          "lat": 9.2797851,
+          "lng": -75.4033757
+        },
+        {
+          "nombre": "Carpe diem",
+          "lat": 9.2925977,
+          "lng": -75.4130454
+        },
+        {
+          "nombre": "El Crucero",
+          "lat": 9.3134425,
+          "lng": -75.4129144
+        },
+        {
+          "nombre": "Clinica manantiales",
+          "lat": 9.3104272,
+          "lng": -75.4127560
+        }
+      ]
+    }
+  ]
+}
